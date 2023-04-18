@@ -1,0 +1,2 @@
+Insertion sort is good for a few thpusand items or less.
+Insertion sort is over twice as fast as the bubble sort and almost 45% 
